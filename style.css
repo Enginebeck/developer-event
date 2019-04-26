@@ -2,3 +2,7 @@ body,
 html {
     font-family: sans-serif;
 }
+
+.event-link {
+    font-size: 10px;
+}
