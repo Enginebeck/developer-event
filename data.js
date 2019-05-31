@@ -6,5 +6,6 @@ const data = [
     {content: 'Google IO', start: '2019-05-08', end: '2019-05-10', link: 'https://events.google.com/io/'},
     {content: 'GMTC', start: '2019-06-20', end: '2019-06-21', link: 'https://gmtc2019.geekbang.org/'},
     {content: 'Facebook F8', start: '2019-04-30', end: '2019-05-01', link: 'https://www.f8.com/'},
-    {content: 'QCon', start: '2019-05-06', end: '2019-05-08', link: 'https://2019.qconbeijing.com/'}
+    {content: 'QCon', start: '2019-05-06', end: '2019-05-08', link: 'https://2019.qconbeijing.com/'},
+    {content: 'Nginx Conf2019', start: '2019-09-12 00:00:00', end: '2019-09-12 24:00:00', link: 'https://www.nginx.com/nginxconf/2019/'}
 ];
